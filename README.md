@@ -171,7 +171,7 @@ with a square of butter. The steps to making a basic grilled cheese would be:
 `Spread butter on bread and frying pan`, 
 `Place bread in frying pan and fry`,
 `Add cheese on top of bread`, 
-`Cover with second slice of bread`, `Turn over andfry for 2 minutes`
+`Cover with second slice of bread`, `Turn over and fry for 2 minutes`
 
 Write an ordered list that displays these 5 steps correctly.  Run `learn` to see
 if you've passed.
